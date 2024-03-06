@@ -8,7 +8,7 @@
 
 ## 課程筆記區
 ## 作業連結區
-[HW1]
+[HW1](https://github.com/chiaoweichan/PL/commit/9d7c9f64097f83477205f076259011ce8e1bdb29)
 
 [HW2]
 
