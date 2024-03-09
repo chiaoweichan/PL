@@ -1,0 +1,15 @@
+,Max,Jack,Tim,John,Ruby,Lily
+Age,39,50,38,53,28,37
+Workclass, State-gov, Self-emp-not-inc, Private, Private, Private, Private
+Income,77516,83311,215646,234721,338409,284582
+Education, Bachelors, Bachelors, HS-grad,11th, Bachelors, Masters
+Education-Num,13,13,9,7,13,14
+Marital Status, Never-married, Married-civ-spouse, Divorced, Married-civ-spouse, Married-civ-spouse, Married-civ-spouse
+Occupation, Adm-clerical, Exec-managerial, Handlers-cleaners, Handlers-cleaners, Prof-specialty, Exec-managerial
+Relationship, Not-in-family, Husband, Not-in-family, Husband, Wife, Wife
+Race, White, White, White, Black, Black, White
+Sex, Male, Male, Male, Male, Female, Female
+Capital Gain,2174,0,0,0,0,0
+Capital Loss,0,0,0,0,0,0
+Hours per Week,40,13,40,40,40,40
+Native Country, United-States, United-States, United-States, United-States, Cuba, United-States
