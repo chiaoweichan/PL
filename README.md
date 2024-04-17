@@ -12,7 +12,7 @@
 
 [HW2](https://github.com/chiaoweichan/PL/blob/main/education_salary.py)
 
-[HW3]
+[HW3](https://youtu.be/Oyddt7Y53qc)
 
 [HW4]
 
