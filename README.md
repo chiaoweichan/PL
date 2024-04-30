@@ -14,6 +14,6 @@
 
 [HW3](https://youtu.be/Oyddt7Y53qc)
 
-[HW4]
+[HW4](https://github.com/chiaoweichan/PL/blob/main/PL_HW4.ipynb)
 
 ## 專題連結區
